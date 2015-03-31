@@ -1,2 +1,2 @@
 # go_shells
-a collection of shells written with the go programming language, golang
+a collection of simple, remote shells written with the go programming language, golang
